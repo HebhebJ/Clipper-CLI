@@ -132,6 +132,14 @@ Response includes:
 - `srt_path`
 - timing metadata + nested service outputs in `extra`
 
+## Legal Notice
+
+`youtube_downloader.py` is intended only for downloading content you are authorized to use.
+
+- Follow applicable copyright laws.
+- Follow platform terms of service.
+- Do not use this project to redistribute copyrighted material without permission.
+
 ## Known Constraints
 
 - Services read environment variables directly and do not auto-load `.env` yet.
