@@ -1,0 +1,87 @@
+{
+  "topic": "Khabib Nurmagomedov retired undefeated, legacy",
+  "duration_seconds": 71.6,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 12.0,
+      "voice_text": "The curtains closed on an era of dominance, as Khabib Nurmagomedov hung up his gloves, leaving behind a legacy that will be etched in the annals of MMA history forever.",
+      "visual_tags": [
+        "mma octagon",
+        "retirement ceremony"
+      ],
+      "on_screen_text": "Legacy Defined"
+    },
+    {
+      "id": 2,
+      "start": 12.0,
+      "end": 19.6,
+      "voice_text": "Undefeated at 29-0, the Dagestani wrestling phenomenon retired with a perfect record, silencing critics who dared to doubt him.",
+      "visual_tags": [
+        "unbeaten record",
+        "stats overlay"
+      ],
+      "on_screen_text": "Perfect Record"
+    },
+    {
+      "id": 3,
+      "start": 19.6,
+      "end": 27.6,
+      "voice_text": "His path to greatness was forged through blood, sweat, and tears, as he navigated the treacherous landscape of professional fighting.",
+      "visual_tags": [
+        "training montage",
+        "fighter's backstory"
+      ],
+      "on_screen_text": "Path to Greatness"
+    },
+    {
+      "id": 4,
+      "start": 27.6,
+      "end": 34.0,
+      "voice_text": "With each victory, Khabib's legend grew, as he systematically dismantled opponents with his suffocating grappling style.",
+      "visual_tags": [
+        "grappling techniques",
+        "victory highlights"
+      ],
+      "on_screen_text": "Suffocating Style"
+    },
+    {
+      "id": 5,
+      "start": 34.0,
+      "end": 44.4,
+      "voice_text": "The world bore witness to his artistry in the octagon, where he executed flawless takedowns and submission holds that left even the most seasoned warriors helpless.",
+      "visual_tags": [
+        "takedowns and submissions",
+        "fighter's skills"
+      ],
+      "on_screen_text": "Artistry Unmatched"
+    },
+    {
+      "id": 6,
+      "start": 44.4,
+      "end": 60.0,
+      "voice_text": "And yet, it was not just his impressive résumé that secured his place among the all-time greats – it was the way he conducted himself outside of competition, as a beacon of humility, compassion, and respect for the sport.",
+      "visual_tags": [
+        "compassion and humility",
+        "out-of-competition moments"
+      ],
+      "on_screen_text": "Off-Camera Hero"
+    },
+    {
+      "id": 7,
+      "start": 60.0,
+      "end": 71.6,
+      "voice_text": "As the lights dimmed on Khabib's remarkable ride, fans and peers alike bid farewell to a true warrior, whose name will forever be synonymous with excellence and unshakeable dedication.",
+      "visual_tags": [
+        "farewell ceremony",
+        "career highlights reel"
+      ],
+      "on_screen_text": "Farewell to a Legend"
+    }
+  ]
+}

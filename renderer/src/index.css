@@ -1,0 +1,37 @@
+/* renderer/src/index.css */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #111827;
+  color: #e5e7eb;
+}
+
+.app {
+  padding: 16px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 2fr 1.2fr;
+  gap: 16px;
+}
+
+.card {
+  background: #1f2937;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.log-box {
+  width: 100%;
+  height: 250px;
+  background: #000;
+  color: #d1d5db;
+  padding: 8px;
+  border-radius: 4px;
+  overflow-y: auto;
+  font-family: monospace;
+  font-size: 0.8rem;
+  white-space: pre-wrap;
+}

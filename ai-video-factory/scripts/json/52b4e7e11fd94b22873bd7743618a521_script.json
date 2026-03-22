@@ -1,0 +1,62 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 37.2,
+  "tone": "shocked",
+  "language": "in",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 17.2,
+      "voice_text": "He turned down Dana's 50k show money, told UFC to keep it, signed with PFL, stepped in the cage ONE time, slept 6 feet 8 Renan Ferreira in 70 seconds flat, and cashed a guaranteed 8 million dollar check like it was nothing.",
+      "visual_tags": [
+        "MMA fighter in action",
+        "UFC logo",
+        "PFL contract",
+        "money stack"
+      ],
+      "on_screen_text": "Game Changing Move"
+    },
+    {
+      "id": 2,
+      "start": 17.2,
+      "end": 22.4,
+      "voice_text": "Meanwhile UFC champs are still risking their lives all year for 500k-1M tops.",
+      "visual_tags": [
+        "Risks involved",
+        "Fighters in octagon",
+        "Contract negotiation",
+        "Money talks"
+      ],
+      "on_screen_text": "Risk vs Reward"
+    },
+    {
+      "id": 3,
+      "start": 22.4,
+      "end": 30.4,
+      "voice_text": "Francis didn't just walk away, he pulled the biggest heist in MMA history and made every fighter rethink their contract.",
+      "visual_tags": [
+        "MMA history",
+        "Big heist",
+        "Contract drama",
+        "Francis' face"
+      ],
+      "on_screen_text": "Heist of the Century"
+    },
+    {
+      "id": 4,
+      "start": 30.4,
+      "end": 37.2,
+      "voice_text": "Comment your favorite Ngannou KO below and tell me who grabs the next big bag outside UFC.",
+      "visual_tags": [
+        "Ngannou KO",
+        "Fighter celebrations",
+        "Comment section",
+        "Next big thing"
+      ],
+      "on_screen_text": "Next Big Bag"
+    }
+  ]
+}

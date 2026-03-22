@@ -1,0 +1,121 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 98.8,
+  "tone": "dramatic",
+  "language": "in",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.8,
+      "voice_text": "You think Khamzat Chimaev's hype is overblown?",
+      "visual_tags": [
+        "Khamzat Chimaev's face",
+        "mma fighter"
+      ],
+      "on_screen_text": "Overblown?"
+    },
+    {
+      "id": 2,
+      "start": 2.8,
+      "end": 10.8,
+      "voice_text": "Wait till you hear these 5 facts about the undefeated Wolf – number 5 will blow your mind, trust me.",
+      "visual_tags": [
+        "Wolf logo",
+        "UFC background",
+        "animated facts"
+      ],
+      "on_screen_text": "Mind Blown"
+    },
+    {
+      "id": 3,
+      "start": 10.8,
+      "end": 17.6,
+      "voice_text": "Fact 1: Khamzat's 15 0 pro record means he's never lost a fight, but in the UFC?",
+      "visual_tags": [
+        "Khamzat Chimaev's stats",
+        "mma record book"
+      ],
+      "on_screen_text": "Pro Perfect"
+    },
+    {
+      "id": 4,
+      "start": 17.6,
+      "end": 25.6,
+      "voice_text": "He's 9 0, turning every Octagon walk into a massacre – that's more finishes than most champs have total wins.",
+      "visual_tags": [
+        "Octagon walk",
+        "finishes montage"
+      ],
+      "on_screen_text": "Massacre Mode"
+    },
+    {
+      "id": 5,
+      "start": 25.6,
+      "end": 42.0,
+      "voice_text": "Fact 2: Get this: In his first 10 days in the UFC back in 2020, he fought twice and set records for most wins, most finishes, and most bonuses in a single week – the guy broke the promotion before breakfast.",
+      "visual_tags": [
+        "UFC records",
+        "week of wins"
+      ],
+      "on_screen_text": "Breakfast Champ"
+    },
+    {
+      "id": 6,
+      "start": 42.0,
+      "end": 53.6,
+      "voice_text": "Fact 3: He's got 100% takedown defense in UFC – no one's ever dragged the Wolf to the mat, not even elite wrestlers like Gilbert Burns or Robert Whittaker.",
+      "visual_tags": [
+        "takedown defense",
+        "Gilbert Burns"
+      ],
+      "on_screen_text": "Takedowns None"
+    },
+    {
+      "id": 7,
+      "start": 53.6,
+      "end": 66.0,
+      "voice_text": "Fact 4: Khamzat just became the first fighter repping the UAE to win UFC gold, snatching the middleweight belt from Dricus du Plessis in August 2025 with a unanimous decision domination.",
+      "visual_tags": [
+        "UAE flag",
+        "middleweight belt"
+      ],
+      "on_screen_text": "First Time Ever"
+    },
+    {
+      "id": 8,
+      "start": 66.0,
+      "end": 83.6,
+      "voice_text": "Fact 5: And you won't believe this last one – in that title fight, Khamzat landed a UFC-record 529 strikes on du Plessis, including 411 to the head and 517 on the ground, while racking up 21 minutes and 40 seconds of control time...",
+      "visual_tags": [
+        "striking stats",
+        "du Plessis face"
+      ],
+      "on_screen_text": "Strike Master"
+    },
+    {
+      "id": 9,
+      "start": 83.6,
+      "end": 91.6,
+      "voice_text": "the second-most ever in a single fight. He didn't just win the belt – he rewrote the record books mid-beatdown.",
+      "visual_tags": [
+        "record books",
+        "Khamzat's dominance"
+      ],
+      "on_screen_text": "Rewriting Records"
+    },
+    {
+      "id": 10,
+      "start": 91.6,
+      "end": 98.8,
+      "voice_text": "Khamzat's not a fighter, he's a glitch in the matrix. Drop a like if he's your next GOAT.",
+      "visual_tags": [
+        "glitch effect",
+        "mma fans"
+      ],
+      "on_screen_text": "GOAT Mode On"
+    }
+  ]
+}

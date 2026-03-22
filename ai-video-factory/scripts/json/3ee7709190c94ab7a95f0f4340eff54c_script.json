@@ -1,0 +1,58 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 30.8,
+  "tone": "shocked",
+  "language": "in",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.4,
+      "voice_text": "9 seconds, 100k in the bank.",
+      "visual_tags": [
+        "bank statement",
+        "money growing",
+        "financial growth"
+      ],
+      "on_screen_text": "Cash Flow"
+    },
+    {
+      "id": 2,
+      "start": 2.4,
+      "end": 12.4,
+      "voice_text": "Jairzinho Rozenstruik fights Allen Crowder, Crowder rushes in, Rozenstruik slips and lands one clean overhand right, Crowder drops stiff at exactly 9 seconds, fight over.",
+      "visual_tags": [
+        "boxing ring",
+        "fighter punches",
+        "knockout impact"
+      ],
+      "on_screen_text": "KO Power"
+    },
+    {
+      "id": 3,
+      "start": 12.4,
+      "end": 21.2,
+      "voice_text": "Dana gives him 50k Performance bonus on top of his show and win money, total around 100k for 9 seconds of work.",
+      "visual_tags": [
+        "dollar bills",
+        "cash stacks",
+        "money piling up"
+      ],
+      "on_screen_text": "Money Maker"
+    },
+    {
+      "id": 4,
+      "start": 21.2,
+      "end": 30.8,
+      "voice_text": "Second fastest KO in UFC history and still the fastest heavyweight finish ever. One punch, six figures.Drop a like if you wanna see more!.",
+      "visual_tags": [
+        "punch animation",
+        "speed and power",
+        "UFC highlights"
+      ],
+      "on_screen_text": "One Punch Wipeout"
+    }
+  ]
+}

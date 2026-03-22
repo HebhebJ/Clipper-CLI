@@ -1,0 +1,69 @@
+{
+  "topic": "Khabib Nurmagomedov retired undefeated, legacy",
+  "duration_seconds": 48.8,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.6,
+      "voice_text": "In the world of mixed martial arts, there's never been anyone like Khabib Nurmagomedov.",
+      "visual_tags": [
+        "MMA history",
+        "Khabib in the ring"
+      ],
+      "on_screen_text": "Unmatched Greatness"
+    },
+    {
+      "id": 2,
+      "start": 5.6,
+      "end": 13.2,
+      "voice_text": "The man they called \"The Eagle\" soared to unparalleled heights, racking up a flawless 29-0 record before retiring undefeated.",
+      "visual_tags": [
+        "Rise to fame",
+        "Undefeated record",
+        "Championship belts"
+      ],
+      "on_screen_text": "Sky's the Limit"
+    },
+    {
+      "id": 3,
+      "start": 13.2,
+      "end": 23.2,
+      "voice_text": "His grappling skills were so finely tuned, opponents would often find themselves trapped in an armbar or rear-naked choke within minutes of the opening bell.",
+      "visual_tags": [
+        "Grappling mastery",
+        "Armbar submission",
+        "Opponent's frustration"
+      ],
+      "on_screen_text": "Submission Mastery"
+    },
+    {
+      "id": 4,
+      "start": 23.2,
+      "end": 32.0,
+      "voice_text": "It was as if he had a sixth sense, anticipating every move his foes might make and countering with precision and force.",
+      "visual_tags": [
+        "Sixth sense",
+        "Anticipation and counterattack",
+        "Dominant performance"
+      ],
+      "on_screen_text": "Unpredictable Genius"
+    },
+    {
+      "id": 5,
+      "start": 32.0,
+      "end": 48.8,
+      "voice_text": "As he left the Octagon for good, fans everywhere mourned the loss of their hero, but they couldn't help but marvel at the incredible legacy he left behind - a testament to his unyielding dedication, unwavering skill, and unshakeable will to dominate.",
+      "visual_tags": [
+        "Farewell to the Octagon",
+        "Legacy celebrated",
+        "Fans' admiration"
+      ],
+      "on_screen_text": "Enduring Legacy"
+    }
+  ]
+}

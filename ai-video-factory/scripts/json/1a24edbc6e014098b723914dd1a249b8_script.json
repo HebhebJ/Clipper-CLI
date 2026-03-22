@@ -1,0 +1,76 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 50.4,
+  "tone": "Dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.6,
+      "voice_text": "Did you know Merab Dvalishvili beat the same champion twice in one calendar year?",
+      "visual_tags": [
+        "mixed martial arts",
+        "UFC champion"
+      ],
+      "on_screen_text": "MMA Mastermind"
+    },
+    {
+      "id": 2,
+      "start": 5.6,
+      "end": 22.0,
+      "voice_text": "He took Sean O’Malley’s belt with a wrestling clinic at UFC 306 in 2024, then in 2025 defended it three times: smothered Umar Nurmagomedov in January, choked O’Malley unconscious with a north-south choke in June, and outworked Cory Sandhagen in October.",
+      "visual_tags": [
+        "wrestling clinic",
+        "championship belt"
+      ],
+      "on_screen_text": "Title Defense"
+    },
+    {
+      "id": 3,
+      "start": 22.0,
+      "end": 31.2,
+      "voice_text": "That’s three successful title defenses in ten months, a UFC record of 117 takedowns landed, and a 14-fight win streak that’s still running.",
+      "visual_tags": [
+        "UFC records",
+        "takedowns landed"
+      ],
+      "on_screen_text": "Unstoppable Force"
+    },
+    {
+      "id": 4,
+      "start": 31.2,
+      "end": 38.4,
+      "voice_text": "Merab “The Machine” is now 21-4 overall, top-3 P4P, and nobody has solved his cardio or wrestling yet.",
+      "visual_tags": [
+        "P4P rankings",
+        "cardio and wrestling"
+      ],
+      "on_screen_text": "The Machine Unleashed"
+    },
+    {
+      "id": 5,
+      "start": 38.4,
+      "end": 48.4,
+      "voice_text": "He’s going for a fourth defense this year at UFC 323 on December 7 against Petr Yan. You buying Merab as the bantamweight GOAT already?",
+      "visual_tags": [
+        "title defense attempt",
+        "Petr Yan challenge"
+      ],
+      "on_screen_text": "Next Challenge Awaits"
+    },
+    {
+      "id": 6,
+      "start": 48.4,
+      "end": 50.4,
+      "voice_text": "Drop a like if yes.",
+      "visual_tags": [
+        "emoji reactions",
+        "like and comment"
+      ],
+      "on_screen_text": "Your Opinion Matters"
+    }
+  ]
+}

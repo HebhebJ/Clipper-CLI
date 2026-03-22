@@ -1,0 +1,24 @@
+{
+  "name": "clipper-cli",
+  "version": "1.0.0",
+  "description": "Local-first short-form video toolkit (Electron clipper + AI video factory microservices)",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron .",
+    "renderer:build": "npm --prefix renderer run build",
+    "renderer:dev": "npm --prefix renderer run dev"
+  },
+  "keywords": [
+    "electron",
+    "ffmpeg",
+    "video-editing",
+    "tiktok",
+    "shorts",
+    "ai-video"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^39.2.3"
+  }
+}

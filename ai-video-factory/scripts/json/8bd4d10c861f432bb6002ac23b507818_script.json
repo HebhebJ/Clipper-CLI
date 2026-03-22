@@ -1,0 +1,21 @@
+{
+  "topic": "string",
+  "duration_seconds": 0.4,
+  "tone": "motivational",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.4,
+      "voice_text": "string",
+      "visual_tags": [
+        "digital world",
+        "technology"
+      ],
+      "on_screen_text": "String it out"
+    }
+  ]
+}

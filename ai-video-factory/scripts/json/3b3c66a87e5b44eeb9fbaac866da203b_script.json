@@ -1,0 +1,76 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 72.0,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 19.6,
+      "voice_text": "He was breaking legs on purpose and nobody could stop him – for years Jon Jones threw the most illegal kick in MMA history, stomping straight down on the knee like he was putting out a cigarette, a move so vicious it was literally banned under the old rules.",
+      "visual_tags": [
+        "mma fighters",
+        "knee strikes"
+      ],
+      "on_screen_text": "Dirty Kick Alert"
+    },
+    {
+      "id": 2,
+      "start": 19.6,
+      "end": 28.8,
+      "voice_text": "Watch this: Ryan Bader’s leg buckles, Rampage limps for months, even Gustafsson collapses in slow-motion agony, yet the ref just lets it happen.",
+      "visual_tags": [
+        "mma moments",
+        "leg buckles"
+      ],
+      "on_screen_text": "The Horror Show"
+    },
+    {
+      "id": 3,
+      "start": 28.8,
+      "end": 45.6,
+      "voice_text": "Doctors screamed it tears ACLs and MCLs in one shot, Joe Rogan lost his mind on air yelling 'that should be illegal,' fighters called it dirty, but in 2015 the rules quietly changed and suddenly the oblique kick became 100% fair game.",
+      "visual_tags": [
+        "medical images",
+        "knee injuries"
+      ],
+      "on_screen_text": "Tear Alert"
+    },
+    {
+      "id": 4,
+      "start": 45.6,
+      "end": 54.0,
+      "voice_text": "Now look – Israel Adesanya, Shavkat Rakhmonov, Kevin Holland, every top guy is copying Jon’s “evil” weapon in every main event.",
+      "visual_tags": [
+        "mma fighters",
+        "oblique kicks"
+      ],
+      "on_screen_text": "Evil Unleashed"
+    },
+    {
+      "id": 5,
+      "start": 54.0,
+      "end": 62.4,
+      "voice_text": "The same career-ending move that got Jon booed out of arenas is now mandatory if you want to win a title.",
+      "visual_tags": [
+        "title fights",
+        "knee strikes"
+      ],
+      "on_screen_text": "The Game Changer"
+    },
+    {
+      "id": 6,
+      "start": 62.4,
+      "end": 72.0,
+      "voice_text": "So tell me: smartest technique in the game, or should it be banned again? Drop a fire emoji if you think it’s straight-up evil.",
+      "visual_tags": [
+        "martial arts",
+        "ethics debate"
+      ],
+      "on_screen_text": "Is It Evil?"
+    }
+  ]
+}

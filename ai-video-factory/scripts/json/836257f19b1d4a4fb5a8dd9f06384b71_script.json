@@ -1,0 +1,70 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 36.0,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.8,
+      "voice_text": "Jon Jones was breakin legs on purpose and nobody stopped him. He'd stomp straight down on the knee like killin a bug.",
+      "visual_tags": [
+        "MMA fighters",
+        "Knee strike",
+        "Powerful kicks"
+      ],
+      "on_screen_text": "Legs of steel"
+    },
+    {
+      "id": 2,
+      "start": 8.8,
+      "end": 18.0,
+      "voice_text": "This vicious oblique kick was banned in old rules. Bader's leg folds Rampage limps forever Gustafsson drops in agony yet refs did nothin.",
+      "visual_tags": [
+        "Old rules",
+        "Banned move",
+        "Painful moments"
+      ],
+      "on_screen_text": "Folding under pressure"
+    },
+    {
+      "id": 3,
+      "start": 18.0,
+      "end": 25.2,
+      "voice_text": "Joe Rogan screamed that should be illegal. But in 2015 the rules flipped and now it's 100% legal.",
+      "visual_tags": [
+        "Rules flipped",
+        "New era",
+        "Legal moves"
+      ],
+      "on_screen_text": "Kicking it up a notch"
+    },
+    {
+      "id": 4,
+      "start": 25.2,
+      "end": 32.0,
+      "voice_text": "Adesanya Shavkat everyone throws Jon's evil kick to win titles. Smartest move in MMA or pure dirt.",
+      "visual_tags": [
+        "UFC titles",
+        "Adesanya vs Shavkat",
+        "Championship wins"
+      ],
+      "on_screen_text": "Winning ways"
+    },
+    {
+      "id": 5,
+      "start": 32.0,
+      "end": 36.0,
+      "voice_text": "Drop a 🔥 if it needs to be banned again",
+      "visual_tags": [
+        "Reactions needed",
+        "Controversy sparks",
+        "MMA passion"
+      ],
+      "on_screen_text": "Burn it down"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 51.6,
+  "tone": "Dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.8,
+      "voice_text": "Only TWO men in history ever stole a round from Khabib Nurmagomedov… and it still wasn’t enough.",
+      "visual_tags": [
+        "MMA fighters",
+        "Khabib Nurmagomedov",
+        "round"
+      ],
+      "on_screen_text": "Unbeatable Khabib"
+    },
+    {
+      "id": 2,
+      "start": 6.8,
+      "end": 13.6,
+      "voice_text": "29-0, 13-0 in the UFC, 40 rounds fought… judges gave the Eagle a 10-9 loss exactly twice.",
+      "visual_tags": [
+        "UFC stats",
+        "Khabib's record",
+        "judges' scores"
+      ],
+      "on_screen_text": "Impeccable Defense"
+    },
+    {
+      "id": 3,
+      "start": 13.6,
+      "end": 24.0,
+      "voice_text": "First: Conor McGregor, UFC 229 round 3 – Conor outstruck him 34-22 and actually defended takedowns for once, so all three judges gave him the round.",
+      "visual_tags": [
+        "Conor McGregor",
+        "MMA fight",
+        "round three"
+      ],
+      "on_screen_text": "McGregor Takes Round"
+    },
+    {
+      "id": 4,
+      "start": 24.0,
+      "end": 36.4,
+      "voice_text": "Second: Justin Gaethje, UFC 254 round 1 – Gaethje came out swinging, landed clean leg kicks and punches, two judges scored it 10-9 before Khabib choked him out in round 2.",
+      "visual_tags": [
+        "Justin Gaethje",
+        "Khabib's choke",
+        "UFC round one"
+      ],
+      "on_screen_text": "Gaethje's Aggressive Start"
+    },
+    {
+      "id": 5,
+      "start": 36.4,
+      "end": 43.2,
+      "voice_text": "That’s it. Two rounds total across 13 UFC fights. Everyone else got completely blanked on the cards.",
+      "visual_tags": [
+        "UFC fights",
+        "Khabib's dominance",
+        "round stats"
+      ],
+      "on_screen_text": "Dominant Run"
+    },
+    {
+      "id": 6,
+      "start": 43.2,
+      "end": 51.6,
+      "voice_text": "Khabib didn’t just go undefeated… he damn near went un-scored on. Drop a like if that’s the most dominant run ever.",
+      "visual_tags": [
+        "Like button",
+        "MMA fans",
+        "dominant run"
+      ],
+      "on_screen_text": "Domination Confirmed"
+    }
+  ]
+}

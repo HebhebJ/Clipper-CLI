@@ -1,0 +1,70 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 47.6,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 13.6,
+      "voice_text": "Everyone says Shavkat Rakhmonov is the nicest guy in the UFC, always smiling, super polite, always says please and thank you, but the second that cage door locks he turns into a straight monster.",
+      "visual_tags": [
+        "smiling fighter",
+        "UFC champion",
+        "fighter's corner"
+      ],
+      "on_screen_text": "Monster in the cage"
+    },
+    {
+      "id": 2,
+      "start": 13.6,
+      "end": 22.4,
+      "voice_text": "19-0, every single win by finish, zero decisions, 100% knockout or submission rate, nobody has ever heard the final bell against him.",
+      "visual_tags": [
+        "knockout streak",
+        "submission highlight reel",
+        "fight stats"
+      ],
+      "on_screen_text": "Finish rate mastery"
+    },
+    {
+      "id": 3,
+      "start": 22.4,
+      "end": 30.0,
+      "voice_text": "He sleeps guys or snaps limbs in round 1, round 2, or round 3 like it's on a timer.",
+      "visual_tags": [
+        "early stoppage",
+        "limbs snapping",
+        "round 1 finish"
+      ],
+      "on_screen_text": "Timed destruction"
+    },
+    {
+      "id": 4,
+      "start": 30.0,
+      "end": 38.8,
+      "voice_text": "Welterweight division is on red alert right now because this quiet Kazakh killer is coming for the belt and nobody looks safe.",
+      "visual_tags": [
+        "welterweight warning",
+        "Kazakh killer",
+        "belt alert"
+      ],
+      "on_screen_text": "Red alert activated"
+    },
+    {
+      "id": 5,
+      "start": 38.8,
+      "end": 47.6,
+      "voice_text": "Nicest dude outside the octagon, most terrifying inside. You buying the hype or what? Drop a  if Shavkat becomes champ in 2026.",
+      "visual_tags": [
+        "out of the cage",
+        "in the octagon",
+        "fighter's persona"
+      ],
+      "on_screen_text": "Two sides revealed"
+    }
+  ]
+}

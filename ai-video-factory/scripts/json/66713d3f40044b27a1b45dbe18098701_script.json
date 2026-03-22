@@ -1,0 +1,76 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 37.2,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.4,
+      "voice_text": "Jon Jones was breaking legs on purpose and nobody stopped him.",
+      "visual_tags": [
+        "MMA fighter",
+        "Jon Jones"
+      ],
+      "on_screen_text": "Broken Rules"
+    },
+    {
+      "id": 2,
+      "start": 4.4,
+      "end": 13.2,
+      "voice_text": "He'd stomp straight down on the knee like killing a bug - this vicious oblique kick was straight-up banned in old rules.",
+      "visual_tags": [
+        "Knee strike",
+        "Illegal moves"
+      ],
+      "on_screen_text": "Banned No More"
+    },
+    {
+      "id": 3,
+      "start": 13.2,
+      "end": 18.8,
+      "voice_text": "Bader's leg folds, Rampage limps forever, Gustafsson drops in agony, yet refs did nothing.",
+      "visual_tags": [
+        "MMA injuries",
+        "Painful moments"
+      ],
+      "on_screen_text": "Injury Game Strong"
+    },
+    {
+      "id": 4,
+      "start": 18.8,
+      "end": 26.0,
+      "voice_text": "Joe Rogan screamed 'that should be illegal!' But in 2015 the rules flipped and suddenly it's 100% legal.",
+      "visual_tags": [
+        "Joe Rogan",
+        "MMA commentary"
+      ],
+      "on_screen_text": "Rogan's Frustration"
+    },
+    {
+      "id": 5,
+      "start": 26.0,
+      "end": 33.2,
+      "voice_text": "Now Adesanya, Shavkat, everyone throws Jon's 'evil' kick to win titles. Smartest move in MMA or pure dirt?",
+      "visual_tags": [
+        "Middleweight champion",
+        "Fight moves"
+      ],
+      "on_screen_text": "Evil Kicks Win"
+    },
+    {
+      "id": 6,
+      "start": 33.2,
+      "end": 37.2,
+      "voice_text": "Drop a 🔥 if it needs to be banned again.",
+      "visual_tags": [
+        "Fire emoji",
+        "MMA controversy"
+      ],
+      "on_screen_text": "🔥 Ban It?"
+    }
+  ]
+}

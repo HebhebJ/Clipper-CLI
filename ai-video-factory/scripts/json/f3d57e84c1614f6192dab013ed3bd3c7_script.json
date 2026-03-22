@@ -1,0 +1,65 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 39.6,
+  "tone": "dramatic",
+  "language": "in",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 4.4,
+      "voice_text": "Jon Jones was wrecking knees on purpose and nobody stopped him.",
+      "visual_tags": [
+        "knee injuries",
+        "MMA fighter"
+      ],
+      "on_screen_text": "Knee Crusher"
+    },
+    {
+      "id": 2,
+      "start": 4.4,
+      "end": 12.8,
+      "voice_text": "He stomped straight down on the joint like smashing a bug, and this brutal oblique kick was banned under old rules.",
+      "visual_tags": [
+        "kickboxing",
+        "oblique kick"
+      ],
+      "on_screen_text": "Sickening Strike"
+    },
+    {
+      "id": 3,
+      "start": 12.8,
+      "end": 21.6,
+      "voice_text": "Bader’s leg folds, Rampage limps for years, Gustafsson collapses in pain. Refs didn’t blink. Even Joe Rogan said it should be illegal.",
+      "visual_tags": [
+        "MMA fighters in pain",
+        "limping"
+      ],
+      "on_screen_text": "Tough Guy Tough"
+    },
+    {
+      "id": 4,
+      "start": 21.6,
+      "end": 32.0,
+      "voice_text": "But in 2015 the rules flipped and suddenly it became fully legal. Now Adesanya, Shavkat, and half the division use Jon’s knee destroyer to win fights.",
+      "visual_tags": [
+        "rule changes",
+        "new legality"
+      ],
+      "on_screen_text": "New Rules New Tricks"
+    },
+    {
+      "id": 5,
+      "start": 32.0,
+      "end": 39.6,
+      "voice_text": "Smartest technique in MMA or pure dirty tactics? Drop a fire emoji if it needs to be banned again.",
+      "visual_tags": [
+        "MMA controversy",
+        "dirty tactics"
+      ],
+      "on_screen_text": "Fair Fight Only"
+    }
+  ]
+}

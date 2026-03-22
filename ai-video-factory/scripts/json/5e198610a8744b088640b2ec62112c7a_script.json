@@ -1,0 +1,54 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 33.6,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "voice_text": "Jon Jones was sniping knees left and right and refs couldn't do shit.",
+      "visual_tags": [
+        "martial arts",
+        "ufc fighters"
+      ],
+      "on_screen_text": "Knee Drop Alert"
+    },
+    {
+      "id": 2,
+      "start": 5.2,
+      "end": 14.0,
+      "voice_text": "He'd slam his foot straight down on the knee like stomping a can, pure oblique kick destruction. Old rules had it banned.",
+      "visual_tags": [
+        "kickboxing moves",
+        "oblique kick"
+      ],
+      "on_screen_text": "Sweeping Leg Destruction"
+    },
+    {
+      "id": 3,
+      "start": 14.0,
+      "end": 23.2,
+      "voice_text": "Bader's leg buckles, Rampage limps out, Gustafsson crashes hard, zero stoppage. Rogan yelling that's illegal. 2015 rules change, bam, now it's wide open.",
+      "visual_tags": [
+        "ufc history",
+        "rules change"
+      ],
+      "on_screen_text": "Knee Game Changer"
+    },
+    {
+      "id": 4,
+      "start": 23.2,
+      "end": 33.6,
+      "voice_text": "Now Adesanya, Shavkat, every top dog throws that same Jon Jones knee-killer to grab belts. Clean technique or dirty weapon? Drop 🔥 if it gotta go.",
+      "visual_tags": [
+        "mma strategies",
+        "kick techniques"
+      ],
+      "on_screen_text": "Drop The Knee"
+    }
+  ]
+}

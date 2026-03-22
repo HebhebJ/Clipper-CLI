@@ -1,0 +1,70 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 46.4,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 10.4,
+      "voice_text": "In the world of mixed martial arts, there are moments that leave us wondering what could have been. Zabit the UFC fighter is one such enigma.",
+      "visual_tags": [
+        "martial arts arena",
+        "fist clenched",
+        "fighter's profile"
+      ],
+      "on_screen_text": "MMA Enigma"
+    },
+    {
+      "id": 2,
+      "start": 10.4,
+      "end": 18.4,
+      "voice_text": "His skills in the Octagon were undeniable, with a string of impressive wins under his belt. But then, disaster struck.",
+      "visual_tags": [
+        "Octagon background",
+        "fight stats",
+        "loss graphic"
+      ],
+      "on_screen_text": "Disaster Strikes"
+    },
+    {
+      "id": 3,
+      "start": 18.4,
+      "end": 29.6,
+      "voice_text": "A single loss, and suddenly, the whispers began to circulate: 'He's not good enough.' The doubts crept in, like a shadow lurking in the corner of our minds.",
+      "visual_tags": [
+        "doubts clouding mind",
+        "shadow effect",
+        "fighter's face"
+      ],
+      "on_screen_text": "Doubts Creep In"
+    },
+    {
+      "id": 4,
+      "start": 29.6,
+      "end": 38.0,
+      "voice_text": "What if Zabit had never been defeated? Would he have followed in Khabib's footsteps, dominating opponents with his unique grappling style?",
+      "visual_tags": [
+        "what if scenario",
+        "grappling technique",
+        "victory pose"
+      ],
+      "on_screen_text": "Dominant Potential"
+    },
+    {
+      "id": 5,
+      "start": 38.0,
+      "end": 46.4,
+      "voice_text": "We'll never know for sure, but one thing is certain: Zabit's potential was immense, and the what-ifs will forever haunt us.",
+      "visual_tags": [
+        "haunting whispers",
+        "fighter's profile",
+        "question mark"
+      ],
+      "on_screen_text": "What If Haunts"
+    }
+  ]
+}

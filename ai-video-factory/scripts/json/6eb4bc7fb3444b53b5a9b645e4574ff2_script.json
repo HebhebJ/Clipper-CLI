@@ -1,0 +1,70 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 48.0,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 13.6,
+      "voice_text": "Everyone says Shavkat Rakhmonov is the nicest guy in the UFC, always smiling, super polite, always says please and thank you, but the second that cage door locks he turns into a straight monster.",
+      "visual_tags": [
+        "UFC fighter",
+        "Shavkat Rakhmonov smiling",
+        "Octagon entrance"
+      ],
+      "on_screen_text": "Nice guy alert"
+    },
+    {
+      "id": 2,
+      "start": 13.6,
+      "end": 22.4,
+      "voice_text": "19-0, every single win by finish, zero decisions, 100% knockout or submission rate, nobody has ever heard the final bell against him.",
+      "visual_tags": [
+        "Kazakh killer stats",
+        "Finish streak animation",
+        "Submission graphic"
+      ],
+      "on_screen_text": "Unbeatable force"
+    },
+    {
+      "id": 3,
+      "start": 22.4,
+      "end": 30.0,
+      "voice_text": "He sleeps guys or snaps limbs in round 1, round 2, or round 3 like it's on a timer.",
+      "visual_tags": [
+        "Rounds ticking away",
+        "Fighter intensity",
+        "Limb snapping"
+      ],
+      "on_screen_text": "Snap, crackle, pop"
+    },
+    {
+      "id": 4,
+      "start": 30.0,
+      "end": 38.8,
+      "voice_text": "Welterweight division is on red alert right now because this quiet Kazakh killer is coming for the belt and nobody looks safe.",
+      "visual_tags": [
+        "Welterweight warning sign",
+        "Kazakh flag animation",
+        "Championship belt"
+      ],
+      "on_screen_text": "Red alert issued"
+    },
+    {
+      "id": 5,
+      "start": 38.8,
+      "end": 48.0,
+      "voice_text": "Nicest dude outside the octagon, most terrifying inside. You buying the hype or what? Drop a 🥶 if Shavkat becomes champ in 2026.",
+      "visual_tags": [
+        "Nicest dude selfie",
+        "Terrifying fighter graphic",
+        "2026 championship clock"
+      ],
+      "on_screen_text": "Hype train confirmed"
+    }
+  ]
+}

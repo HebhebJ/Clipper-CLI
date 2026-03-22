@@ -1,0 +1,46 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 27.2,
+  "tone": "shocked",
+  "language": "in",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 12.8,
+      "voice_text": "He turned down Dana's 50k show money, told UFC to keep it, signed with PFL, fought one time, slept Renan Ferreira in 70 seconds, and cashed a clean 8 million dollar check.",
+      "visual_tags": [
+        "fight arena",
+        "money bills",
+        "celebration confetti"
+      ],
+      "on_screen_text": "Money talks"
+    },
+    {
+      "id": 2,
+      "start": 12.8,
+      "end": 22.4,
+      "voice_text": "UFC champs still grinding for 500k while Francis made 8 mil in one round. He didn't just leave the UFC, he robbed the game.",
+      "visual_tags": [
+        "UFC octagon",
+        "Francis Ngannou knockout",
+        "money bag"
+      ],
+      "on_screen_text": "Robbing the game"
+    },
+    {
+      "id": 3,
+      "start": 22.4,
+      "end": 27.2,
+      "voice_text": "You mad or motivated? Drop 💰 if Ngannou just changed MMA forever.",
+      "visual_tags": [
+        "motivation quote",
+        "Ngannou punch",
+        "determination fire"
+      ],
+      "on_screen_text": "Motivated or mad?"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 36.0,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.8,
+      "voice_text": "Jon Jones was breakin legs on purpose and nobody stopped him. He'd stomp straight down on the knee like killin a bug.",
+      "visual_tags": [
+        "mma fight",
+        "knee injury",
+        "ufc history"
+      ],
+      "on_screen_text": "Legs of Fury"
+    },
+    {
+      "id": 2,
+      "start": 8.8,
+      "end": 18.0,
+      "voice_text": "This vicious oblique kick was banned in old rules. Bader's leg folds Rampage limps forever Gustafsson drops in agony yet refs did nothin.",
+      "visual_tags": [
+        "oblique kick",
+        "martial arts",
+        "ufc rules"
+      ],
+      "on_screen_text": "Rules of Engagement"
+    },
+    {
+      "id": 3,
+      "start": 18.0,
+      "end": 25.2,
+      "voice_text": "Joe Rogan screamed that should be illegal. But in 2015 the rules flipped and now it's 100% legal.",
+      "visual_tags": [
+        "mma commentators",
+        "sports commentary",
+        "ufc drama"
+      ],
+      "on_screen_text": "Foul Play Alerted"
+    },
+    {
+      "id": 4,
+      "start": 25.2,
+      "end": 32.0,
+      "voice_text": "Adesanya Shavkat everyone throws Jon's evil kick to win titles. Smartest move in MMA or pure dirt.",
+      "visual_tags": [
+        "adrenaline rush",
+        "mma championships",
+        "fighting spirit"
+      ],
+      "on_screen_text": "Win at All Costs"
+    },
+    {
+      "id": 5,
+      "start": 32.0,
+      "end": 36.0,
+      "voice_text": "Drop a 🔥 if it needs to be banned again",
+      "visual_tags": [
+        "ufc fan reaction",
+        "sports opinion",
+        "social media debate"
+      ],
+      "on_screen_text": "Ban It Again?"
+    }
+  ]
+}

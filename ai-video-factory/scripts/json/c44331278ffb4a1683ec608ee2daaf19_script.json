@@ -1,0 +1,22 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 39.2,
+  "tone": "dramatic",
+  "language": "in",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 39.2,
+      "voice_text": "Jon Jones was wrecking knees on purpose and nobody stopped him he stomped straight down on the joint like smashing a bug this brutal oblique kick was banned under old rules Bader’s leg folds Rampage limps for years Gustafsson collapses in pain refs didn’t blink even Joe Rogan yelled it should be illegal but in 2015 the rules flipped and suddenly it became fully legal now Adesanya Shavkat and half the division use Jon’s knee destroyer to win fights smartest technique in MMA or pure dirty tactics drop a fire emoji if it needs to be banned again",
+      "visual_tags": [
+        "MMA fighters",
+        "knee injuries",
+        "fight footage"
+      ],
+      "on_screen_text": "Knee game strong"
+    }
+  ]
+}

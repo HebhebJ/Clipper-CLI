@@ -1,0 +1,54 @@
+{
+  "topic": "Custom paragraph",
+  "duration_seconds": 33.6,
+  "tone": "dramatic",
+  "language": "en",
+  "title": "",
+  "hook": "",
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.2,
+      "voice_text": "Jon Jones was sniping knees left and right and refs couldn't do shit.",
+      "visual_tags": [
+        "mma fighters",
+        "knee strikes"
+      ],
+      "on_screen_text": "Knee Dropping"
+    },
+    {
+      "id": 2,
+      "start": 5.2,
+      "end": 14.0,
+      "voice_text": "He'd slam his foot straight down on the knee like stomping a can, pure oblique kick destruction. Old rules had it banned.",
+      "visual_tags": [
+        "oblique kick",
+        "mixed martial arts"
+      ],
+      "on_screen_text": "Pure Destruction"
+    },
+    {
+      "id": 3,
+      "start": 14.0,
+      "end": 23.2,
+      "voice_text": "Bader's leg buckles, Rampage limps out, Gustafsson crashes hard, zero stoppage. Rogan yelling that's illegal. 2015 rules change, bam, now it's wide open.",
+      "visual_tags": [
+        "ufc rules",
+        "fighter reactions"
+      ],
+      "on_screen_text": "Rules Change Everything"
+    },
+    {
+      "id": 4,
+      "start": 23.2,
+      "end": 33.6,
+      "voice_text": "Now Adesanya, Shavkat, every top dog throws that same Jon Jones knee-killer to grab belts. Clean technique or dirty weapon? Drop 🔥 if it gotta go.",
+      "visual_tags": [
+        "mma moves",
+        "fighting techniques"
+      ],
+      "on_screen_text": "Technique Over Technique"
+    }
+  ]
+}

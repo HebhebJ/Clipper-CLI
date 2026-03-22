@@ -1,0 +1,48 @@
+# Node / Electron
+node_modules/
+renderer/node_modules/
+renderer/dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ai-video-factory/.venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+ai-video-factory/.env
+
+# Build / temp outputs
+output_clips/
+videos/
+ai-video-factory/tmp/
+ai-video-factory/orchestrator/tmp/
+ai-video-factory/downloads/
+ai-video-factory/subtitles/
+ai-video-factory/visual_service/generated_images/
+ai-video-factory/visual_service/*.png
+
+# Large local assets (keep if needed by removing these lines)
+ai-video-factory/pics/
+ai-video-factory/render_service/*.mp4
+
+# Keep source folders even when ignored outputs exist
+!output_clips/.gitkeep
+!videos/.gitkeep
+!ai-video-factory/tmp/.gitkeep
+!ai-video-factory/subtitles/.gitkeep
